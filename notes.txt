@@ -1,0 +1,81 @@
+HTML --> HyperText Markup Language
+Uses --> To create web pages and web applications
+
+Extension --> .htm or .html
+
+Syntax :
+
+<html>
+    <head> --> heading tag
+        <title>
+            // title of the web page
+        </title>
+    </head>
+    <body>
+        // code 
+    </body>
+</html>
+
+Heading Tags:
+
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+
+Tags:
+
+<p> - paragraph
+<u> - underline the text
+<i> - italic the text
+<b> - bold the text
+<hr> - horizontal row
+<mark> - highlight the text
+<br> - break the row
+<small> - smaller text
+<big> - bigger text
+<em> - Empasized text [ same as italic tag ]
+<ins> - inserted text  [ same as underline ]
+<strong> - bold the text
+<del> - delete the text
+<sub> - subscript text
+<sup> - superscript text
+
+
+Order List:
+
+<ol> - order list
+<li> - list items
+
+Style Types:
+type="1" --> The list items will be numbered with numbers (default)
+type="A" --> The list items will be numbered with uppercase letters
+type="a" --> The list items will be numbered with lowercase letters
+type="I" --> The list items will be numbered with uppercase roman numbers
+type="i" --> The list items will be numbered with lowercase roman numbers
+
+Unordered List:
+
+<ul> - unordered list
+<li> - list items
+
+Table tag:
+
+<tr> - table row
+<th> - table heading
+<td> - table data
+
+<table>
+    <tr>
+        <th>
+            <td>
+            
+            </td>
+        </th>
+    </tr>
+
+</table>
+
+
